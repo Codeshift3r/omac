@@ -1,0 +1,2 @@
+# omac
+Nope CDN
